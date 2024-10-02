@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="another_round">Another Round</string>
+    <string name="game_winner">Game Winner: %1$s</string>
+    <string name="end_game">End Game</string>
+    <string name="winner_woooww">Winner: %1$s ***** WOOOWW!!</string>
+    <string name="current_player">Current Player: %1$s</string>
+    <string name="round">Round: %1$s</string>
+    <string name="scoreboard">Scoreboard:</string>
+    <string name="player_x">"Player X: %1$s "</string>
+    <string name="player_o">"Player O: %1$s "</string>
+</resources>
